@@ -1,4 +1,4 @@
-# Ödev 2
+# Bootstrap Calisma
 
 ## Bootstrap ile Instagram Clone
 
